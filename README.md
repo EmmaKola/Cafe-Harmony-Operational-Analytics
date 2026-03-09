@@ -9,8 +9,9 @@ Café Harmony is an innovative café chain offering a wide variety of drinks, sn
 
 ### Business Problem
 Cafe harmony has identified problems that needs to be solved to improve the operational efficiency and customer satisfaction by answering the questions below. They are higlighed in bullet point for clarity.
- - Which menu items are performing the best across different locations?
- - What is the customer profile that tends to spend the most (age, gender, or preferred product)?
- - How can the café improve its stock management to avoid running out of popular items while also reducing overstock
- - Are there any employee or location perfomance issues. 
-
+- Which menu items are performing the best across different locations?
+- What is the customer profile that tends to spend the most (age, gender, or preferred product)?
+- How can the café improve its stock management to avoid running out of popular items while also reducing overstock
+- Are there any employee or location perfomance issues. 
+### Aim of the project
+- 
