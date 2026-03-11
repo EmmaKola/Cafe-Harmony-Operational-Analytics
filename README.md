@@ -3,7 +3,12 @@ The projects performs a descriptive data analysis on Cafe Harmony to help overco
 
 ## Table on Content
 - [Project Overview](#project-overview)
-- [About Cafe Harmony](about-cafe-harmony)
+- [About Cafe Harmony](#about-cafe-harmony)
+- [Business Problem](#business-problem)
+- [Aim of the Project](#aim-of-the-project)
+- [Processes](#processes)
+- [Insights](#insights)
+- [Recommendation](#recommendation)
 
 ## Project Overview
 This project leverages data analytics to provide actionable insights for Café Harmony, a rapidly growing café chain. By analyzing sales, customer profiles, and operational metrics across multiple locations, the project identifies high-performing menu items, key customer segments, and potential operational inefficiencies. The analysis also informs stock management strategies to minimize overstock and prevent shortages. A dynamic dashboard was created to help management make data-driven decisions to enhance customer experience, optimize operations, and support business growth.
